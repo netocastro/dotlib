@@ -48,7 +48,7 @@
     </nav>
     @yield('content')
 
-    <footer class="text-center bg-dark pt-3 mt-5 text-light ">
+    <footer class="text-center bg-dark pt-3 text-light ">
         <p>Site Criado por <a href="https://github.com/netocastro" target="_blanck">Neto Castro</a> @2022</p>
     </footer>
 
