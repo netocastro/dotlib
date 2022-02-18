@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="#"><img src="https://dotlib.com/theme/img/logos/logo.png" alt=""></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -48,11 +48,8 @@
     </nav>
     @yield('content')
 
-    <footer class="text-center bg-dark text-light py-2 mt-5">
-
-        <p>Site Criado po <a href="https://github.com/netocastro" target="_blanck">Neto Castro</a> @2022</p>
-
-
+    <footer class="text-center bg-dark pt-3 mt-5 text-light ">
+        <p>Site Criado por <a href="https://github.com/netocastro" target="_blanck">Neto Castro</a> @2022</p>
     </footer>
 
     <!-- Optional JavaScript; choose one of the two! -->
